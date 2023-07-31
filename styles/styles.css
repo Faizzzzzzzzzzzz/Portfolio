@@ -8,8 +8,8 @@
 :root {
   --color-primary: #191d2b;
   /* --color-secondary: #27ae60; */
-  /* --color-secondary: #9681eb; */
-  --color-secondary: #ff0051;
+  --color-secondary: #9681eb;
+  /* --color-secondary: #ff0051; */
   --color-white: #ffffff;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -319,7 +319,7 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
   width: 75%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .sass {
+.about-stats .progress-bars .progress-bar .progress-con .progress .wordpress {
   width: 75%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .bootstrap {
